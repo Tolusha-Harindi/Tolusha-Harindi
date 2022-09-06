@@ -5,13 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-About Me
+<h1> About Me </h1>
 
 - 🔭 I’m currently working on few projects.
 - 🌱 I’m currently learning NodeJs, MongoDB, Flutter, & Fastify.
 - 👯 I’m looking to collaborate on latest technologies.
 - 💬 Ask me about my interests.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
