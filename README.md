@@ -12,3 +12,5 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on latest technologies.
 - 💬 Ask me about my interests.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tolusha-Harindi&theme=synthwave)](https://git.io/streak-stats)
+
