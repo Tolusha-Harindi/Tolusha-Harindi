@@ -36,7 +36,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolusha-harindi&show_icons=true&locale=en&layout=compact&theme=bear" alt="tolusha-harindi" /></p> </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolusha-harindi&show_icons=true&locale=en&theme=synthwave" alt="tolusha-harindi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolusha-harindi&show_icons=true&locale=en&theme=chartreuse-dark" alt="tolusha-harindi" /></p> </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolusha-harindi&theme=chartreuse-dark" alt="tolusha-harindi" /></p> </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolusha-harindi" alt="tolusha-harindi" /></a> </p>
