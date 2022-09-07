@@ -1,7 +1,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 <h1 align="center">Hi 👋, I'm Tolusha Harindi</h1>
 <h3 align="center">A passionate program developer</h3>
@@ -20,16 +20,15 @@
 
 - 📫 How to reach me **tolushaharindi06@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolusha-harindi" alt="tolusha-harindi" /></a> </p>
 
-</br> </br><h3 align="left">Connect with me:</h3>
+</br> <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolusha harindi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tolusha-harindi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolusha harindi" height="30" width="40" /></a>
 <a href="https://instagram.com/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolushaharindi" height="30" width="40" /></a>
 <a href="https://www.behance.net/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tolusha harindi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tolusha harindi" height="30" width="40" /></a>
-</p> </br> </br>
+</p> </br> 
 
 
 
@@ -40,6 +39,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolusha-harindi&show_icons=true&locale=en&layout=compact&theme=bear" alt="tolusha-harindi" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolusha-harindi&show_icons=true&locale=en&theme=neon-dark" alt="tolusha-harindi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolusha-harindi&theme=chartreuse-dark" alt="tolusha-harindi" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolusha-harindi" alt="tolusha-harindi" /></a> </p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tolusha-Harindi&theme=chartreuse-dark)](https://git.io/streak-stats) -->
 
