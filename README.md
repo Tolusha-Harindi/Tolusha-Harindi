@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on **few projects**
-- 🌱 I’m currently learning **NodeJs, MongoDB, Flutter, & Fastify.**
+- 🌱 I’m currently learning **NodeJs, React, React Native, Node, MongoDB, Flutter, & Fastify.**
 - 👯 I’m looking to collaborate on **latest technologies**
 - 💬 Ask me about **my interests**
 - 📫 How to reach me **tolushaharindi06@gmail.com**
