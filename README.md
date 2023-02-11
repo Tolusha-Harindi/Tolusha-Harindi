@@ -23,7 +23,7 @@
 <a href="https://instagram.com/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolushaharindi" height="30" width="40" /></a>
 <a href="https://www.behance.net/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tolusha harindi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tolushaharindi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tolusha harindi" height="30" width="40" /></a>
-</p> </br> 
+</p> </br> </br> 
 
 
 
